@@ -13,7 +13,7 @@ import './App.css';
 
 //You must add your own API key here from Clarifai.
 const app = new Clarifai.App({
- apiKey: 'YOUR API KEY HERE'
+ apiKey: '281abcf3cfa84f81bf98c32c012f4c76'
 });
 
 // No Longer need this. Updated to particles-bg
